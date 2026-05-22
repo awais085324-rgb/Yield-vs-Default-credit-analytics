@@ -5,6 +5,7 @@ Commercial banks always face a tough balancing act: trying to earn interest inco
 This project solves that exact problem. I built a SQL database layer to safely check and clean the records, then connected it to a Power BI dashboard. This gives risk teams an easy way to track borrower debt levels, spot exactly where portfolio stress is building, and adjust lending strategies before defaults cause serious financial damage.
 
 ## Data Validation Using SQL
+
 First, I used SQL to query the raw data directly to clean, group, and verify all information before making any charts. I wrote scripts to filter out bad loans, group applicants by risk status, and track monthly trends. This step ensured that the database records were completely accurate and matched across all reports.
 
 Here are examples of the queries I ran from the database to check the numbers:
@@ -12,7 +13,9 @@ Here are examples of the queries I ran from the database to check the numbers:
 <img width="1113" height="788" alt="Screenshot 2026-05-22 152645" src="https://github.com/user-attachments/assets/4aabb9e3-b048-4bcd-ada0-43bf336986cc" />
 <img width="1133" height="810" alt="Screenshot 2026-05-22 152626" src="https://github.com/user-attachments/assets/b9737447-05fa-47f5-bf78-237f003f4ced" />
 <img width="1107" height="808" alt="Screenshot 2026-05-22 152603" src="https://github.com/user-attachments/assets/2fb587fc-0586-42d0-894d-0ebd2d02b694" />
+
 ## Interactive Visuals Using Power BI
+
 After verifying the data, I loaded it into Power BI to create the main dashboard. I wrote custom DAX formulas to build dynamic summaries and key performance indicators.
 I used COUNT, SUM, and AVERAGE to handle the basic calculations like total application volumes, funded amounts, and typical interest rates.
 I used logical functions like IF to cleanly separate healthy loans from defaults.
