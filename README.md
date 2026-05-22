@@ -1,4 +1,4 @@
-# Yield-vs-Default-Credit-analytics
+# Yield-vs-Default-Credit-Analysis
 ## Executive Problem Statement
 Commercial banks always face a tough balancing act: trying to earn interest income while making sure loan defaults don't wipe out their profits. Without a clear view of borrower behavior, it is easy to accidentally lend money to high-risk groups that end up hurting the bank's bottom line.
 
