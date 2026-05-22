@@ -19,7 +19,8 @@ I used logical functions like IF to cleanly separate healthy loans from defaults
 I utilized time intelligence tools like TOTALMTD and DATEADD to build month over month comparison trends.
 
 This allowed risk teams to easily filter information by loan grade or specific months, making it simple to spot credit stress and protect bank margins.
-<img width="1304" height="814" alt="Screenshot 2026-05-22 120952" src="https://github.com/user-attachments/assets/d76b76bd-643e-4e27-9a5c-133689884ed8" />
-<img width="1305" height="818" alt="Screenshot 2026-05-22 120930" src="https://github.com/user-attachments/assets/463d71e1-d723-4d4e-8474-ce89406c2f63" />
 <img width="1304" height="817" alt="Screenshot 2026-05-22 120908" src="https://github.com/user-attachments/assets/1dba3f13-d40e-466d-8ba3-9dcefc547b70" />
+<img width="1305" height="818" alt="Screenshot 2026-05-22 120930" src="https://github.com/user-attachments/assets/463d71e1-d723-4d4e-8474-ce89406c2f63" />
+<img width="1304" height="814" alt="Screenshot 2026-05-22 120952" src="https://github.com/user-attachments/assets/d76b76bd-643e-4e27-9a5c-133689884ed8" />
+
 
